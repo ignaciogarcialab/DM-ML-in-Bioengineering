@@ -1,4 +1,4 @@
 # DM-ML-in-Bioengineering
 Repo de bioingeniería año 2025 
-En este repositorio les voy a mostrar..
-Acá ya termine el README.
+1. En este repositorio les voy a mostrar.
+2. Acá ya termine el README.
